@@ -1,0 +1,16 @@
+# How to Contribute
+
+This repository is intended to support infrastructure components
+for managing GitHub resources in the googleapis GitHub organization.
+
+We do not expect this repository to be particularly relevant to
+developers outside Google, and we don't expect or seek external code
+contributions. That doesn't mean it will never happen, but it would
+be unusual.
+
+If you want to request a change within this repository and you're
+not a member of the Google Cloud SDK team, please create an
+[issue](https://github.com/googleapis/infra-github/issues)
+for discussion first, clearly explaining your intended use. We will
+close pull requests from external contributors which aren't the
+result of a suitable discussion.
